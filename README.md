@@ -1,5 +1,7 @@
 ## Starting the application
 Open index.html in your browser.
+or visit:
+https://fiber.christopheradams.com
 
 ## Using application
 Click on light bulb marker to see info on lit buildings
