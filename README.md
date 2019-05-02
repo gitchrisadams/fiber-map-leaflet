@@ -14,7 +14,11 @@ It is currently set to display a cable w/ no defined Owner in green.
 
 ## About app and considerations
 ### Declustering
-Since many of the lit buildings are together, looking into a declustering libary would be a good next step.
+Since many of the lit buildings are together, looking into a declustering library would be a good next step.
+
+## Making functions modular
+Future improvements could include making a function to accept params
+instead of having two separate functions for cables and lit buildings.
 
 ### Pure JavaScript vs. React or SPA library
 In starting this app I initially looked into using with React.
